@@ -10,6 +10,9 @@ index.html
 A 3D living room using three.js with furniture, computer, and a screensharing wall.
 
 # Controls
+- `WASD` to move.
+- Click once to lock pointer, move the camera with mouse.
+- Unlock pointer with `ESC`.
 - Press `E` near the computer to turn it on, opening a window with the same room but with different colored walls.
 - Press `E` near the black wall, wait a bit, and screenshare any window or monitor to view it on that screen, e.g. a YouTube video.
 - Press `F5` to reset the game.
